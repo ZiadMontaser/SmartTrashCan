@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885722654267-g9qcl619fo560srnameju4oj92rsijlo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885722654267-g9qcl619fo560srnameju4oj92rsijlo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB57kKmkfIVG1cOCYkH23i6GKYn92utRW4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885722654267</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smarTrashCan</string>
+	<key>PROJECT_ID</key>
+	<string>au-adminlog</string>
+	<key>STORAGE_BUCKET</key>
+	<string>au-adminlog.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885722654267:ios:80f52b80f75b77d1c0de1e</string>
+	<key>DATABASE_URL</key>
+	<string>https://au-adminlog-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
